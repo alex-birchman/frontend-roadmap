@@ -20,3 +20,10 @@
 
    - Пройтись по ссылкам в компоненте кнопки `src/stories/Button.stories.jsx` и изучить, за что отвечает каждый параметр;
    - Привыкнуть к коду.
+
+
+---
+## Инструкции
+Как переключить ветку в git?
+
+![how-to-switch-git-branch-gif](./assets/how-to-switch-git-branch.gif)
